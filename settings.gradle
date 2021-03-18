@@ -1,1 +1,6 @@
 rootProject.name = 'demo-vertx-devices'
+include 'common'
+include 'composition-one'
+include 'composition-three'
+include 'composition-two'
+
